@@ -1,6 +1,6 @@
 {
   "name": "codex-workbuddy-control",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "codex-workbuddy-control contributors",
   "license": "MIT",
   "entry": "SKILL.md",

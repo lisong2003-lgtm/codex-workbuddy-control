@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1 - 2026-11-24
+
+- Replaced the blueprint icons with platform-style blue rounded-square icons at
+  512x512 and 256x256 (ocean blue background, white document-arrow-check mark).
+- Bumped version for a three-platform republish of the icon update.
+
 ## 0.1.0 - 2026-11-24
 
 - Added the standard-library task bus with `init`, `status`, `dispatch`,

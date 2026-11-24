@@ -1,7 +1,7 @@
 ---
 name: codex-workbuddy-control
 description: "编排 WorkBuddy 派发、只读验收与候选交接；不代替业务执行。"
-version: 0.1.0
+version: 0.1.1
 license: MIT
 ---
 
