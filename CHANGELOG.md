@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2 - 2026-11-24
+
+- Attached the platform-style blue icon as the SkillHub display icon and
+  republished all three platforms at the same version.
+
 ## 0.1.1 - 2026-11-24
 
 - Replaced the blueprint icons with platform-style blue rounded-square icons at
