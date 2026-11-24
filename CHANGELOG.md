@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.3 - 2026-11-24
+
+- Replaced the icon with a deep-blue-to-bright-blue gradient rounded-square
+  icon with a white 3D document-arrow-check symbol, matching the same visual
+  series as the published `cad-suite` SkillHub icon (v0.4.6). Removed the
+  generator watermark from the 1024 source before producing 512/256 assets.
+- Republished all three platforms at 0.1.3 so the SkillHub display icon uses
+  the same series.
+
 ## 0.1.2 - 2026-11-24
 
 - Attached the platform-style blue icon as the SkillHub display icon and
